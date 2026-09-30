@@ -1,0 +1,5 @@
+name,email,role,department
+Alice Smith,alice@accuknox.com,Security Engineer,SecOps
+Bob Jones,invalid-email,Analyst,IT
+Carol White,carol@accuknox.com,ML Engineer,DataOps
+David Ray,david@accuknox.com,Architect,Infrastructure
