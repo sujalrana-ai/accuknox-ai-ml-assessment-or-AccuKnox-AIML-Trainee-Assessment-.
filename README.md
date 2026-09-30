@@ -40,12 +40,10 @@ This repository contains the complete solutions for the AccuKnox AI/ML Trainee t
 
 ### 1.4 Code Portfolio Links
 - **Most Complex Python Code:**
-  - **Repository:** [LangGraph Multi-Tool AI Agent](https://github.com/sujalrana-ai/LangGraph-Based-Multi-Tool-AI
-Chatbot/blob/main/chatbot_backend.py) 
+  - **Repository:** : https://github.com/sujalrana-ai/LangGraph-Based-Multi-Tool-AI-Chatbot
   - **Description:** Stateful multi-agent system utilizing LangGraph for conditional execution paths, dynamic tool invocation, contextual memory management, and structured fallback recovery.
 - **Most Complex Database Code:**
-  - **Repository:** : [https://github.com/sujalrana-ai/Corrective-Retrieval-Augmented
-Generation-CRAG-System-using-LangGraph/blob/main/crag_pipeline.py]
+  - **Repository:** : https://github.com/sujalrana-ai/Corrective-Retrieval-Augmented-Generation-CRAG-System-using-LangGraph
   - **Description:** High-throughput database schemas with relational constraints, indexed partitioning for time-series telemetry, complex window functions, and transactional batch loading.
 
 ---
